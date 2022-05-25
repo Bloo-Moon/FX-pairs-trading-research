@@ -1,3 +1,7 @@
 # FX-pairs-trading-research
 
-Pairs that correlate based on fundamental factors, detailed approach coming soon
+- **Commodity currencies
+- **G10 currencies
+- **Emerging market currenicies
+
+### 🚧 Under Construction 🚧
